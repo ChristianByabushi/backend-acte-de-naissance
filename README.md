@@ -1,4 +1,4 @@
-# # CodeIgniter 4 RESTapi Server for VueJS Blog repository
+# # CodeIgniter 4 Communicate with Vue js RESTAPI
 
 Based on YouTube tutorial
 
